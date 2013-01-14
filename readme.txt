@@ -1,4 +1,4 @@
-=== WooSidebars ===
+=== WooSidebars Sidebar Manager Converter ===
 Contributors: woothemes, mattyza, jeffikus
 Tags: widgets, sidebars, widget-areas, import, tools, converter
 Requires at least: 3.3
