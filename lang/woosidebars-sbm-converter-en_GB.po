@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooSidebars - Sidebar Manager to WooSidebars Converter v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-09-19 11:45:17+0000\n"
+"Last-Translator: jeffikus <pearce.jp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-woosidebars-sbm-converter.php:58
+#@ woosidebars-sbm-converter
+msgid "Sidebar Manager Converter"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:111
+#@ woosidebars-sbm-converter
+msgid "Convert Sidebars"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:169
+#@ woosidebars-sbm-converter
+msgid "converted"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:169
+#@ woosidebars-sbm-converter
+msgid "deleted"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:185
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "Sidebars %s successfully."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:187
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "There was an error and not all sidebars were %s."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:198
+#@ woosidebars-sbm-converter
+msgid "The following sidebars were not converted:"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:210
+#@ woosidebars-sbm-converter
+msgid "The following sidebar dependencies were not converted:"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:259
+#@ woosidebars-sbm-converter
+msgid "Convert your custom sidebars created using the WooFramework's \"Sidebar Manager\" into Widget Areas for use with the WooSidebars plugin, with the appropriate conditions applied."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:262
+#@ woosidebars-sbm-converter
+msgid "You've got no outstanding Sidebar Manager sidebars... you're good to go!"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:268
+#@ woosidebars-sbm-converter
+msgid "Convert Sidebar Manager Data"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:277
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "Once you're happy that your sidebars have been converted successfully, you can remove the outdated \"Sidebar Manager\" data using the link below %s(this cannot be undone)%s."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:280
+#@ woosidebars-sbm-converter
+msgid "Remove Sidebar Manager Data"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:249
+#@ woosidebars-sbm-converter
+msgid "Please update your WooFramework to the latest version before attempting to convert your existing sidebars."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:250
+#@ woosidebars-sbm-converter
+msgid "Upgrade your WooFramework"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:174
+#@ woosidebars-sbm-converter
+msgid "enabled"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:176
+#@ woosidebars-sbm-converter
+msgid "disabled"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:179
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "WooFramework Sidebar Manager %s successfully."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:181
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "There was an error and the WooFramework Sidebar Manager was not %s."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:254
+#@ woosidebars-sbm-converter
+msgid "Disable"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:256
+#@ woosidebars-sbm-converter
+msgid "Enable"
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:265
+#@ woosidebars-sbm-converter
+msgid "We've detected that you've got data outstanding in the \"Sidebar Manager\". Clicking the button below will attempt to convert that data for use with the WooSidebars plugin."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:270
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "Once you've converted your Sidebar Manager data for use with WooSidebars, please visit the \"%sWidget Areas%s\" screen to see if your sidebars converted successfully."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:272
+#@ woosidebars-sbm-converter
+msgid "To use WooSidebars in place of the WooFramework's Sidebar Manager, you need to disable the WooFramework's Sidebar Manager. To enable or disable the Sidebar Manager, please use the button below."
+msgstr ""
+
+#: classes/class-woosidebars-sbm-converter.php:275
+#, php-format
+#@ woosidebars-sbm-converter
+msgid "%s Sidebar Manager"
+msgstr ""
+
