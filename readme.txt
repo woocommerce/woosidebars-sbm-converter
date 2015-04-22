@@ -2,8 +2,8 @@
 Contributors: woothemes, mattyza, jeffikus
 Tags: widgets, sidebars, widget-areas, import, tools, converter
 Requires at least: 3.3
-Tested up to: 3.5
-Stable tag: 1.1.1
+Tested up to: 4.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,10 +71,18 @@ Looking to contribute code to this plugin? [Fork the repository over at GitHub](
 
 == Upgrade Notice ==
 
+= 1.1.2 =
+* 2015-04-22
+* Security Fix for add_query_arg vulnerability
+
 = 1.1.1 =
 Moved to WordPress.org. Woo!
 
 == Changelog ==
+
+= 1.1.2 =
+* 2015-04-22
+* Security Fix for add_query_arg vulnerability
 
 = 1.1.1 = 
 * 2013-01-14

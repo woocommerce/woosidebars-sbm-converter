@@ -3,7 +3,7 @@
 Plugin Name: WooSidebars - Sidebar Manager to WooSidebars Converter
 Plugin URI: http://woothemes.com/
 Description: Convert your custom sidebars in the WooFramework's Sidebar Manager to Widget Areas in WooSidebars, with the appropriate conditions assigned.
-Version: 1.1.1
+Version: 1.1.2
 Author: WooThemes
 Author URI: http://woothemes.com/
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -27,5 +27,5 @@ License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2
 
 	global $woosidebars_sbm_converter;
 	$woosidebars_sbm_converter = new Woosidebars_SBM_Converter( __FILE__ );
-	$woosidebars_sbm_converter->version = '1.1.1';
+	$woosidebars_sbm_converter->version = '1.1.2';
 ?>

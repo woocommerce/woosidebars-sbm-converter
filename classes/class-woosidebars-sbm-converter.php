@@ -143,7 +143,7 @@ class Woosidebars_SBM_Converter {
 				$status = 'true';
 			}
 
-			wp_safe_redirect( add_query_arg( 'type', urlencode( $_GET['action'] ),  add_query_arg( 'status', urlencode( $status ), add_query_arg( 'page', urlencode( $this->token ),  admin_url( 'tools.php' ) ) ) ) );
+			wp_safe_redirect( esc_url( add_query_arg( 'type', urlencode( $_GET['action'] ),  add_query_arg( 'status', urlencode( $status ), add_query_arg( 'page', urlencode( $this->token ),  admin_url( 'tools.php' ) ) ) ) ) );
 			exit;
 		}
 	} // End process_request()
