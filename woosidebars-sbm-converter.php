@@ -6,12 +6,13 @@ Description: Convert your custom sidebars in the WooFramework's Sidebar Manager 
 Version: 1.1.2
 Author: WooThemes
 Author URI: http://woothemes.com/
+Text Domain: woosidebars-sbm-converter
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 /*  Copyright 2012  WooThemes  (email : info@woothemes.com)
 
     This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License, version 2, as 
+    it under the terms of the GNU General Public License, version 2, as
     published by the Free Software Foundation.
 
     This program is distributed in the hope that it will be useful,
