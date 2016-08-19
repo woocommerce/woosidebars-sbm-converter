@@ -1,9 +1,9 @@
 === WooSidebars Sidebar Manager Converter ===
 Contributors: woothemes, mattyza, jeffikus
 Tags: widgets, sidebars, widget-areas, import, tools, converter
-Requires at least: 3.3
-Tested up to: 4.1.1
-Stable tag: 1.1.2
+Requires at least: 4.1.1
+Tested up to: 4.6.0
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
