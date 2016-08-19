@@ -396,7 +396,7 @@ class Woosidebars_SBM_Converter {
 			$response['post_name'] = esc_attr( $v['conditionals']['sidebar_id'] );
 		} else {
 			$this->not_converted[$k] = $v; // Keep a log of this item, which wasn't converted.
-			continue; // Skip this one, as we don't have a proper slug.
+			return; // Skip this one, as we don't have a proper slug.
 		}
 
 		// Conditions.
